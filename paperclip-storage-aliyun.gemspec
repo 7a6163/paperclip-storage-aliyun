@@ -11,6 +11,6 @@ Gem::Specification.new do |s|
   s.homepage     = 'https://github.com/Martin91/paperclip-storage-aliyun'
   s.license      = 'MIT'
 
-  s.add_runtime_dependency 'paperclip', '>= 3.5.2'
+  s.add_runtime_dependency 'kt-paperclip', '>= 3.5.2'
   s.add_runtime_dependency 'rest-client', '>= 1.6.7'
 end
